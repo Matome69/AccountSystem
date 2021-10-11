@@ -1,0 +1,5 @@
+za\ac\nwu\ac\domain\tm\persistence\AccountTransaction.class
+za\ac\nwu\ac\domain\tm\dto\AccountTransactionDto.class
+za\ac\nwu\ac\domain\tm\dto\AccountTypeDto.class
+za\ac\nwu\ac\domain\tm\persistence\AccountType.class
+za\ac\nwu\ac\domain\tm\service\GeneralResponse.class
